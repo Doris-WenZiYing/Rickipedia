@@ -11,7 +11,8 @@ import SwiftUI
 struct RickipediaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
+                .preferredColorScheme(.dark)
         }
     }
 }
