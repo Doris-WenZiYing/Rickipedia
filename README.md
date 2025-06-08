@@ -1,5 +1,9 @@
 # Rickipedia
 
+<p align="center">
+  <img src="./Screenshots/icon.png" alt="Rickipedia Icon" width="100" style="border-radius: 10px; "/>
+</p>
+
 The project involves utilizing the Rick and Morty API to populate a mobile app that displays characters, locations, and episodes. The REST API is central to accessing various resources, with all requests being made over HTTPS and returning JSON data. The app includes features for filtering and sorting characters, episodes, and locations using SwiftUI and following an MVVM architecture.
 [View Screenshots](#screenshots)
 
@@ -99,18 +103,18 @@ GET https://rickandmortyapi.com/api/episode/28
 <a name="screenshots-section"></a>
 ## Screenshots 
 ### Filter
-<img src="../Rickipedia/Screenshots/Characters.PNG" alt="drawing" width="200"/> 
-<img src="../Rickipedia/Screenshots/Filter.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Characters.PNG" alt="drawing" width="200"/> 
+<img src=".Screenshots/Filter.PNG" alt="drawing" width="200"/> 
 
 ### Sort
-<img src="../Rickipedia/Screenshots/Sort.PNG" alt="drawing" width="200"/> 
-<img src="../Rickipedia/Screenshots/Sort-2.PNG" alt="drawing" width="200"/>  
+<img src="./Screenshots/Sort.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Sort-2.PNG" alt="drawing" width="200"/>  
 
 ### Search
-<img src="../Rickipedia/Screenshots/Search.PNG" alt="drawing" width="200"/> 
-<img src="../Rickipedia/Screenshots/Search-2.PNG" alt="drawing" width="200"/> 
-<img src="../Rickipedia/Screenshots/Search-3.PNG" alt="drawing" width="200"/> 
-<img src="../Rickipedia/Screenshots/Search-4.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Search.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Search-2.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Search-3.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Search-4.PNG" alt="drawing" width="200"/> 
 
 ## Contributing
 
