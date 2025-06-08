@@ -103,18 +103,13 @@ GET https://rickandmortyapi.com/api/episode/28
 <a name="screenshots-section"></a>
 ## Screenshots 
 ### Filter
-<img src="./Screenshots/Characters.PNG" alt="drawing" width="200"/> 
-<img src="./Screenshots/Filter.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Characters.PNG" alt="drawing" width="200"/> <img src="./Screenshots/Filter.PNG" alt="drawing" width="200"/> 
 
 ### Sort
-<img src="./Screenshots/Sort.PNG" alt="drawing" width="200"/> 
-<img src="./Screenshots/Sort-2.PNG" alt="drawing" width="200"/>  
+<img src="./Screenshots/Sort.PNG" alt="drawing" width="200"/> <img src="./Screenshots/Sort-2.PNG" alt="drawing" width="200"/>  
 
 ### Search
-<img src="./Screenshots/Search.PNG" alt="drawing" width="200"/> 
-<img src="./Screenshots/Search-2.PNG" alt="drawing" width="200"/> 
-<img src="./Screenshots/Search-3.PNG" alt="drawing" width="200"/> 
-<img src="./Screenshots/Search-4.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Search.PNG" alt="drawing" width="200"/> <img src="./Screenshots/Search-2.PNG" alt="drawing" width="200"/> <img src="./Screenshots/Search-3.PNG" alt="drawing" width="200"/> <img src="./Screenshots/Search-4.PNG" alt="drawing" width="200"/> 
 
 ## Contributing
 
