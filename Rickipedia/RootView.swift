@@ -19,13 +19,13 @@ struct RootView: View {
             Group {
                 switch selectedTab {
                 case 0:
-                    CharacterView()
+                    CharactersView()
                 case 1:
-                    LocationVIew()
+                    LocationView()
                 case 2:
-                    EpisodeView()
+                    EpisodesView()
                 default:
-                    CharacterView()
+                    CharactersView()
                 }
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity)
