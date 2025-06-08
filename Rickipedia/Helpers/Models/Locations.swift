@@ -1,28 +1,28 @@
 //
-//  Locations.swift
+//  Location.swift
 //  Rickipedia
 //
-//  Created by App_team on 2024/12/17.
+//  Created by Doris Wen on 5.05.2024.
 //
 
 import Foundation
 
+// MARK: - Locations
 struct Locations: Codable {
-    let info: LocationInfo
+    let info: Info
     let results: [Location]
 }
 
-struct LocationInfo: Codable {
-    let count: Int
-    let pages: Int
+// MARK: - Info
+struct Info: Codable {
+    let count, pages: Int
     let next: String?
 }
 
+// MARK: - Result
 struct Location: Codable {
     let id: Int
-    let name: String
-    let type: String
-    let dimension: String
+    let name, type, dimension: String
     let residents: [String]
     let url: String
     let created: String

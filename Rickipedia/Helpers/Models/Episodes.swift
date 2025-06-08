@@ -2,31 +2,32 @@
 //  Episodes.swift
 //  Rickipedia
 //
-//  Created by App_team on 2024/12/17.
+//  Created by Aykut Türkyılmaz on 5.05.2024.
 //
 
 import Foundation
 
+// MARK: - Episodes
 struct Episodes: Codable {
-    let info: EpisodeInfo
+    let info: Info
     let results: [Episode]
 }
 
-struct EpisodeInfo: Codable {
-    let count: Int
-    let pages: Int
+// MARK: - Info
+struct EpisodesInfo: Codable {
+    let count, pages: Int
     let next: String?
+
 }
 
+// MARK: - Result
 struct Episode: Codable {
     let id: Int
-    let name: String
-    let airDate: String
-    let episode: String
+    let name, airDate, episode: String
     let characters: [String]
     let url: String
     let created: String
-    
+
     enum CodingKeys: String, CodingKey {
         case id, name
         case airDate = "air_date"
