@@ -104,7 +104,7 @@ GET https://rickandmortyapi.com/api/episode/28
 ## Screenshots 
 ### Filter
 <img src="./Screenshots/Characters.PNG" alt="drawing" width="200"/> 
-<img src=".Screenshots/Filter.PNG" alt="drawing" width="200"/> 
+<img src="./Screenshots/Filter.PNG" alt="drawing" width="200"/> 
 
 ### Sort
 <img src="./Screenshots/Sort.PNG" alt="drawing" width="200"/> 
