@@ -1,8 +1,8 @@
 //
-//  Color+Extensions.swift
+//  UIColor+Extension.swift
 //  Rickipedia
 //
-//  Created by App_team on 2024/12/14.
+//  Created by Doris Wen on 5.05.2024.
 //
 
 import Foundation
